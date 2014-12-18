@@ -1,12 +1,12 @@
 {
-  "name": "insight-bitcore-api",
+  "name": "insight-vivi-api",
   "description": "An open-source bitcoin blockchain API. The Insight API provides you with a convenient, powerful and simple way to query and broadcast data on the bitcoin network and build your own services with it.",
   "version": "0.2.12",
   "author": {
-    "name": "Ryan X Charles",
-    "email": "ryan@bitpay.com"
+    "name": "Ryan X Charles, Toan Phung",
+    "email": "ryan@bitpay.com, toan267@outlook.com"
   },
-  "repository": "git://github.com/bitpay/insight-api.git",
+  "repository": "git://github.com/toanpd/insight-api.git",
   "contributors": [
     {
       "name": "Matias Alejo Garcia",
