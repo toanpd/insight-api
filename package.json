@@ -1,5 +1,5 @@
 {
-  "name": "insight-vivi-api",
+  "name": "insight-goldbit-api",
   "description": "An open-source bitcoin blockchain API. The Insight API provides you with a convenient, powerful and simple way to query and broadcast data on the bitcoin network and build your own services with it.",
   "version": "0.2.12",
   "author": {
@@ -56,7 +56,7 @@
   },
   "dependencies": {
     "async": "*",
-    "base58-native": "0.1.2",
+    "base58-native": "*",
     "bignum": "*",
     "bitauth": "^0.1.1",
     "bitcore": "git://github.com/bitpay/bitcore.git#aa41c70cff2583d810664c073a324376c39c8b36",
